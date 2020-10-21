@@ -1,0 +1,19 @@
+{
+  "name": "trading_app",
+  "version": "1.0.0",
+  "description": "\"this is an app about trading\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "keywords": [
+    "trading"
+  ],
+  "author": "manishankar,harsh,sarwar,abhilash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
